@@ -118,3 +118,4 @@ local_scripts/
 .cursor/
 .claude/
 CLAUDE.md
+.venv/
